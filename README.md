@@ -1,4 +1,6 @@
 # SpringDataRest
 Practice of spring data rest
 
-<!-- GitAds-Verify: BSRZ9MP3YDOUL1UNEDMO7OAF1GQ9YWT2 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/springdatarest@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/springdatarest@github)
+
